@@ -1,23 +1,23 @@
 <svg height="318" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="318" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 06:10:55 +0000   121528 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 06:10:55 +0000     1103 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 06:10:55 +0000     4386 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 06:10:55 +0000        0 bytes  dist/_bin.d.ts</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 06:10:55 +0000     9309 bytes  dist/_bin.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 06:10:55 +0000    20181 bytes  dist/_bin.js.map</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 06:10:55 +0000        0 bytes  dist/bin.d.ts</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 06:10:55 +0000     1784 bytes  dist/bin.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 06:10:55 +0000     3567 bytes  dist/bin.js.map</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 06:10:55 +0000     2627 bytes  dist/index.d.ts</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 06:10:55 +0000    16028 bytes  dist/index.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 06:10:55 +0000    34482 bytes  dist/index.js.map</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 06:10:55 +0000        0 bytes  dist/index.spec.d.ts</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 06:10:55 +0000     9291 bytes  dist/index.spec.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 06:10:55 +0000    15322 bytes  dist/index.spec.js.map</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 06:10:55 +0000        0 bytes  index.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-20 06:10:55 +0000     3423 bytes  package.json</tspan>
-<tspan x="10" y="298"> 17.  2017-04-20 06:10:55 +0000       25 bytes  register.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 06:11:56 +0000   121528 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 06:11:56 +0000     1103 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 06:11:56 +0000     4386 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 06:11:56 +0000        0 bytes  dist/_bin.d.ts</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 06:11:56 +0000     9309 bytes  dist/_bin.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 06:11:56 +0000    20181 bytes  dist/_bin.js.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 06:11:56 +0000        0 bytes  dist/bin.d.ts</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 06:11:56 +0000     1784 bytes  dist/bin.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 06:11:56 +0000     3567 bytes  dist/bin.js.map</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 06:11:56 +0000     2627 bytes  dist/index.d.ts</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 06:11:56 +0000    16028 bytes  dist/index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 06:11:56 +0000    34482 bytes  dist/index.js.map</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 06:11:56 +0000        0 bytes  dist/index.spec.d.ts</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 06:11:56 +0000     9291 bytes  dist/index.spec.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 06:11:56 +0000    15322 bytes  dist/index.spec.js.map</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 06:11:56 +0000        0 bytes  index.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 06:11:56 +0000     3423 bytes  package.json</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 06:11:56 +0000       25 bytes  register.js</tspan>
 </text>
 </svg>
